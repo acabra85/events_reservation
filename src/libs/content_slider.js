@@ -1,0 +1,1 @@
+$(function() {$('#one').ContentSlider({width : '595px',height : '230px',speed : 400,easing : 'easeOutSine'});});
